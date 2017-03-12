@@ -1,0 +1,67 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+/*	background-color: #ffd700;*/
+}
+
+body{
+	background-color: #a9a9a9;
+}
+
+h1{
+	font-size: 50px;
+	color: #fff;
+} 
+h3, button, #input-button{
+	color: #696969;
+	font-size: 30px;
+}
+nav{
+ height: 80px;
+ background-color: #808080;
+ margin-bottom: 10px;
+ border-radius: 4px;
+ text-align: center;
+}
+nav, h1{
+	padding-top: 5px;
+	border-left: 
+}
+.input-container{
+  height: 100px;
+}
+.newDiv{
+  float:left;
+}
+
+img{
+  width: 300px;
+  height:250px;
+  margin: 0 10px 10px 10px;
+  border-radius: 4px;
+}
+#gif-images{
+	height: 500px;
+}
+p{
+  margin-bottom: 0;
+}
+button{
+	margin: 5px;
+	padding: 0 5px;
+	background: #87cefa;
+	border-radius: 4px;
+	font-size: 20px;
+	cursor: pointer;
+}
+#input-button{
+	margin: 5px;
+	background: #87cefa;
+	border-radius: 4px;
+	font-size: 15px;
+	padding: 0 5px;
+}
+#topic-buttons{
+	width:100%;
+}
